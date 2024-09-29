@@ -1,15 +1,15 @@
-Hi! Welcome to Smruti Arjani’s Data Analytics Portfolio!
+Hi! Welcome to my Data Analytics Portfolio!
 
-Step into a world where data meets creativity, and insights spring to life through the power of analytics. Here, you’ll find a rich tapestry of projects crafted with precision and passion, showcasing expertise in R, SQL, Python, Power BI, and Tableau.
+I’m Smruti Arjani, a Statistician and data analyst with a passion for turning complex datasets into clear, actionable insights. My expertise spans a variety of powerful tools and languages, including R, SQL, Python, Power BI, Tableau, Looker, and IBM Cognos Analytics. In this portfolio, you’ll discover a collection of analytics projects that highlight my skills in data manipulation, visualization, and storytelling. Each project showcases my ability to leverage diverse technologies to derive meaningful insights and drive data-informed decisions. I invite you to explore my work and see how I can help elevate your data strategy.
 
-📊 R Projects: Delve into the realm of R, where statistical analyses and advanced data manipulation reveal the hidden stories within the data.
+📊 R Projects: Data manipulation and statistical analysis
 
-🔍 SQL Projects: Experience the elegance of SQL as it efficiently navigates through complex datasets, extracting valuable insights and optimizing data structures.
+🔍 SQL Projects: Database querying and data extraction
 
-🐍 Python Projects: Witness the versatility of Python, bringing data to life with powerful analytics, machine learning models, and captivating visualizations.
+🐍 Python Projects: Advanced analytics and machine learning
 
-📈 Power BI Projects: Explore interactive and intuitive dashboards that transform raw data into clear, actionable insights, empowering data-driven decisions.
+📈 Power BI Projects: Interactive dashboards and reporting
 
-🎨 Tableau Projects: Marvel at the visual artistry of Tableau, where data is transformed into stunning visual narratives that combine analytical rigor with creative flair.
+🎨 Tableau Projects: Data visualization and storytelling
 
 Thank you for visiting! Enjoy your journey through the fascinating world of data analytics as you explore the diverse projects in my portfolio.
